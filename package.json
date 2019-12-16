@@ -7,8 +7,6 @@
     "start": "node server.js",
     "server": "nodemon server.js",
     "client": "npm start --prefix client",
-
-    //Dette script gør det muligt både at køre server og client med een command
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "repository": {
