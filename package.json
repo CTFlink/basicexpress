@@ -21,7 +21,7 @@
   "homepage": "https://github.com/CTFlink/basicexpress#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6"
+    "express-fileupload": "^1.1.9"
   },
   "devDependencies": {
     "concurrently": "^5.0.1",
